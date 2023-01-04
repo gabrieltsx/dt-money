@@ -1,6 +1,6 @@
 ## Dt-money
 
-Dt-monet is a project to manage expense, using Vite + React.
+Dt-monet is a project to manage expense, using Vite + React + use-context-selector + styled-components + axios + radix-ui.
 
 ## Layout
 ![Screenshot](banner.png)
